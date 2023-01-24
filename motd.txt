@@ -1,0 +1,2 @@
+Welcome monkes, to Baboon Arena!
+This is the first official release, so expect bugs ;)
